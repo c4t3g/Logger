@@ -6,7 +6,7 @@ Usage:
     import datetime
 
     log = MyLogger("MyLogFile")
-    log.log("Messge")
+    log.log("Message")
 
 result in MyLogFİle.log
   
