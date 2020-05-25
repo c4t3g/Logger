@@ -3,12 +3,11 @@ Basic python logger
 
 Usage:
 
-  import datetime
+    import datetime
 
-  log = MyLogger("MyLogFile")
-  log.log("Messge")
+    log = MyLogger("MyLogFile")
+    log.log("Messge")
 
-
-  result in MyLogFİle.log
+result in MyLogFİle.log
   
-  2020-05-25 07:52:35.168818 Message
+    2020-05-25 07:52:35.168818 Message
